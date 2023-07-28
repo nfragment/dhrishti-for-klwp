@@ -52,7 +52,7 @@ A Sci-Fi inspired theme / preset for [KWLP](https://play.google.com/store/apps/d
 
 ## GETTING STARTED
 
-- Download the latest release
+- Download the [latest release](https://github.com/nfragment/dhrishti-for-klwp/releases/download/v1/dhrishti_v1.klwp)
 - Copy the downloaded `dhrishti_v1.klwp` file to `your kustom wallpaper directory`, which is most likely `kustom/wallpapers` directory in your internal storage.
 - Open KLWP and the preset will appear in the `Library` section.
 - select and apply it.
