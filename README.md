@@ -2,6 +2,9 @@
 
 A Sci-Fi inspired theme / preset for [KWLP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper)
 
+## SHOWCASE VIDEO
+[![showcase](https://i9.ytimg.com/vi_webp/_TYY8rvtB2g/mqdefault.webp?v=64c3a4e9&sqp=CJShjacG&rs=AOn4CLC0jKAnz8oheTw3mQuPsBjDC7ax1w)](https://youtu.be/_TYY8rvtB2g)
+
 ## SCREENSHOTS
 
 ### Preview 1
